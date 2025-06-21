@@ -9,9 +9,9 @@ GitHub is a web-based platform. Multiple developers, testers, and technical writ
 - Web browser  
 
 ## To Sign Up for GitHub
-1. Select [GitHub](https://github.com/) to open the website.  
-2. Select **Sign up**.  
+1. Click [GitHub](https://github.com/) to open the website.  
+2. Click **Sign up**.  
 3. Enter your email, password, username, and select your country from the list.  
-4. Select **Continue**.  
+4. Click **Continue**.  
 5. Verify your account.  
-6. Select **Submit**.
+6. Click **Submit**.
