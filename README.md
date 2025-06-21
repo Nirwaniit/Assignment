@@ -10,5 +10,5 @@ Github is a web based platform. Multiple developers, testers, and technical writ
 2. Selct **sign-up**.
 3. Enter Email, Password, Username and select your country from the list.
 4. Select **Continue**.
-5. Veryfy your account.
+5. Verify your account.
 6. Select **submit**.
