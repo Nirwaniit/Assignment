@@ -15,3 +15,6 @@ GitHub is a web-based platform. Multiple developers, testers, and technical writ
 4. Click **Continue**.  
 5. Verify your account.  
 6. Click **Submit**.
+
+
+Thank you
