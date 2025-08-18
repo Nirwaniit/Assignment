@@ -1,20 +1,17 @@
-# Sign Up for GitHub
+# Sign up for GitHub
 
 ## Introduction
-GitHub is a web-based platform. Multiple developers, testers, and technical writers work together. It's a collaborative platform. It is platform-independent. Some people also say it's a cloud-based platform. We can save files, code, and documents online.
+GitHub is a cloud-based platform that enables developers, testers, and technical writers to collaborate. You can use GitHub to store, share, and manage code and documentation online.  
 
 ## Prerequisites
-- Email address  
+- Valid email address  
 - Internet connection  
 - Web browser  
 
-## To Sign Up for GitHub
-1. Click [GitHub](https://github.com/) to open the website.  
+## Procedure
+1. Open the [GitHub website](https://github.com/).  
 2. Click **Sign up**.  
-3. Enter your email, password, username, and select your country from the list.  
+3. Enter your email, password, username, and country.  
 4. Click **Continue**.  
-5. Verify your account.  
-6. Click **Submit**.
-
-
-Thank you
+5. Complete the verification process.  
+6. Click **Submit** to create your account.  
