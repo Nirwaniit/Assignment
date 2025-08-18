@@ -15,3 +15,5 @@ GitHub is a cloud-based platform that enables developers, testers, and technical
 4. Click **Continue**.  
 5. Complete the verification process.  
 6. Click **Submit** to create your account.  
+
+You have successfully signed up for GitHub.  
